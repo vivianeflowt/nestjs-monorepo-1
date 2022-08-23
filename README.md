@@ -188,8 +188,6 @@ $ npm i -g @mikemajesty/monorepo-nestjs-cli
   $ yarn lint
   ```
 
-````
-
 - Run project lint
   ```
   $ yarn workspace <workspaceName> lint
@@ -206,7 +204,7 @@ $ npm i -g @mikemajesty/monorepo-nestjs-cli
 
 ---
 
--- App Skeleton
+### App Skeleton
 
 ```
 .
